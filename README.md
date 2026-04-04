@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">Estudante de desenvolvimento de sistemas !!<
+<p align="center">Estudante de desenvolvimento de sistemas !!</p>
                                                           
 #
 
