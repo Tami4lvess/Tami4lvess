@@ -37,6 +37,7 @@
   <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="typescrips" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img alt="XML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg">
   <img alt="JSON" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg">
