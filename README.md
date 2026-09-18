@@ -1,4 +1,8 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB3DE&height=100&section=header&fontSize=64&fontAlignY=38&descAlignY=60&descSize=18&animation=fadeIn" />
+
 <div align="center">
+<br/><div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22%E2%8A%B9+OL%C3%81+EU+SOU+A+TAMIRES+%E2%8A%B9%22%2C%22color%22%3A%22%23fe06a3%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22200%22%7D%5D">
   </a>
@@ -27,9 +31,6 @@
 
 <div align="center">
   <a href="https://github.com/Tami4lvess">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tami4lvess&layout=compact&langs_count=7&theme=omni"/>
-</div>
 
 <h3 align="center">My Stack</h3>
 
@@ -55,3 +56,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tami4lvess/Tami4lvess/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB3DE,100:000000&height=100&section=footer&animation=fadeIn" />
